@@ -1,6 +1,6 @@
 ---
 Keywords: keyword
-Copyright:(C)2024 Hirofumi Murai
+Copyright: (C)2024 Hirofumi Murai
 ---
 
 # title
